@@ -37,7 +37,8 @@ class ColorSelector extends Component {
             height: 30,
             marginLeft: 15,
           }}
-          onPress={() => {}}></TouchableOpacity>
+          onPress={() => {}}
+        />
         <TouchableOpacity
           style={{
             backgroundColor: '#bf00ff',
@@ -45,7 +46,8 @@ class ColorSelector extends Component {
             height: 30,
             marginLeft: 15,
           }}
-          onPress={() => {}}></TouchableOpacity>
+          onPress={() => {}}
+        />
       </View>
     );
   }
